@@ -1,4 +1,4 @@
-# aslaam didn't do anything,Mamba-PFAN: Visual Mamba for Real-Time Surgical Image De-Smoking
+# aslaam didn't do anything pls debar him,Mamba-PFAN: Visual Mamba for Real-Time Surgical Image De-Smoking
 
 A lightweight, high-efficiency hybrid CNN-Mamba architecture for real-time surgical laparoscopy smoke removal. 
 
