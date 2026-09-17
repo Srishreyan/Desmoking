@@ -1,4 +1,4 @@
-# Mamba-PFAN: Visual Mamba for Real-Time Surgical Image De-Smoking
+# aslaam didn't do anything,Mamba-PFAN: Visual Mamba for Real-Time Surgical Image De-Smoking
 
 A lightweight, high-efficiency hybrid CNN-Mamba architecture for real-time surgical laparoscopy smoke removal. 
 
@@ -104,5 +104,5 @@ On Kaggle (NVIDIA Tesla T4 16GB):
 ├── util/                         # Metrics and visualization helpers
 ├── evaluate_mamba.py             # Standalone test/evaluation script
 ├── train_and_evaluate_mamba.py   # Training pipeline with cloud auto-detect
-└── requirements.txt              # Minimal project dependencies
+└── requirements.txt             kk # Minimal project dependencies
 ```
